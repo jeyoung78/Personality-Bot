@@ -1,5 +1,7 @@
 # Emotion bot with the use of EV3 and RobotC by Jeyoung Park
 
+![image](https://user-images.githubusercontent.com/96452854/178626684-3bcb62e7-afe4-487e-b23f-6f485b395395.png)
+
 Due to Covid-19 people might not have the same social interaction as they had before, emotional support is needed more than ever. However, everyone is busy all the time adjusting to their new lifestyle. Human interaction through social media may not even be the answer for everyone’s emotional support. Thus, we have created the “Personality Bot.” The robot will play with you. It will have 5 states of emotion (tired, happy, sad, angry, and excited). When interacting with the robot in a certain way it will trigger any of these emotions.
 
 The overall program of this robot is to provide the emotional response of a robot. The overall program of this robot splits up into six states of emotions for the robot (which is also the functions of the robot):
