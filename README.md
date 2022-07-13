@@ -1,6 +1,7 @@
-1.0 Introduction
+# Emotion bot with the use of EV3 and RobotC by Jeyoung Park
+
 Due to Covid-19 people might not have the same social interaction as they had before, emotional support is needed more than ever. However, everyone is busy all the time adjusting to their new lifestyle. Human interaction through social media may not even be the answer for everyone’s emotional support. Thus, we have created the “Personality Bot.” The robot will play with you. It will have 5 states of emotion (tired, happy, sad, angry, and excited). When interacting with the robot in a certain way it will trigger any of these emotions.
-2.0 Software Design and Implementation
+
 The overall program of this robot is to provide the emotional response of a robot. The overall program of this robot splits up into six states of emotions for the robot (which is also the functions of the robot):
 They are the Angry state, Happy state, Sad state, Asleep state, Excited state, and Tired state. To make the robot resemble emotional support (which is the problem we try to solve with our robot), we choose these emotions as they describe the normal emotion of every human being. The reasons why these tasks are chosen specifically are:
 -	The Angry state: this state is chosen because it implements the IR beacon sensors. IR beacon sensors will let the robot follows the beacon holder and move toward them whenever it is “Angry”. It fits one of our constraints, as we need 4 types of inputs, and the IR sensor is one of them. 
